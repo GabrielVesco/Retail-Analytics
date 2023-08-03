@@ -9,5 +9,5 @@ Our company is obsessed with providing our customers the best experience possibl
 # The Breakdown
 The project is broken down into two main parts - the business understanding/data exploration and preparation (Part 1), and the model development, testing, and deployment (Part 2).
 
-Part 1 can be viewed here: 
-Part 2 can be viewed here:
+Part 1 can be viewed here: https://rawcdn.githack.com/GabrielVesco/Retail-Analytics/b83f8f1df05043ca64fd3026b5eb2b5868589435/Part-1-Data-Exploration.html
+Part 2 can be viewed here: https://rawcdn.githack.com/GabrielVesco/Retail-Analytics/b83f8f1df05043ca64fd3026b5eb2b5868589435/Part-2-Model-Evaluation.html
