@@ -12,3 +12,6 @@ The project is broken down into two main parts - the business understanding/data
 Part 1 can be viewed here: https://rawcdn.githack.com/GabrielVesco/Retail-Analytics/b83f8f1df05043ca64fd3026b5eb2b5868589435/Part-1-Data-Exploration.html
 
 Part 2 can be viewed here: https://rawcdn.githack.com/GabrielVesco/Retail-Analytics/b83f8f1df05043ca64fd3026b5eb2b5868589435/Part-2-Model-Evaluation.html
+
+# The Data
+The data used comes from Instacart at the following link, detailing all grocery items, products, customer receipts, and more: https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2
